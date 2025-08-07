@@ -1,4 +1,4 @@
-package org.example;
+package org.vrai.StreamApi;
 
 
 import java.util.*;
